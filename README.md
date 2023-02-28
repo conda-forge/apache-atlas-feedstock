@@ -1,11 +1,11 @@
-About apache-atlas
-==================
+About apache-atlas-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/apache-atlas-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/apache/atlas/tree/master/intg/src/main/python
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/apache-atlas-feedstock/blob/main/LICENSE.txt)
 
 Summary: Apache Atlas Python Client
 
