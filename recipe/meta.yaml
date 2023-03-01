@@ -1,5 +1,5 @@
 {% set name = "apache-atlas" %}
-{% set version = "0.0.12" %}
+{% set version = "0.0.13" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/apache-atlas-{{ version }}.tar.gz
-  sha256: 493a4b708152943de15bf3d8463b2a924e9e29d1aafdb6535cde14ba0302e05b
+  sha256: d853460728f1a6cafe0510c97701d8d761f4a3b55d8c852c7c0af470c026ce5b
 
 build:
   noarch: python
